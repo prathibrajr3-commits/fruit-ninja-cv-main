@@ -1,5 +1,5 @@
 # 🍉 AI Fruit Ninja Game
-
+Screenshot 2026-05-21 145549.png
 A modern Fruit Ninja-style browser game built using React, TypeScript, Vite, Tailwind CSS, and MediaPipe Hand Tracking.
 
 ## 🚀 Features
